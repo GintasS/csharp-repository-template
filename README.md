@@ -59,6 +59,8 @@
 > Why did you undertake it?
 > You don't have to answer all the questions - just the ones relevant to your project.
 
+I'm going to update this repository from https://github.com/microsoft/Git-Credential-Manager-Core/ or similar repositories.
+
 <details>
 <summary>Screenshots</summary>
 <br>
